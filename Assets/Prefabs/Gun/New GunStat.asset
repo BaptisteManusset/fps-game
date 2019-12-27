@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 603172f31fd7eb64ca05d4b53fe64f9b, type: 3}
+  m_Name: New GunStat
+  m_EditorClassIdentifier: 
+  canon: {fileID: 0}
+  gunName: Gun
+  quantity: 1
+  recoil: 10
+  spreadFactor: 0
+  rayLength: 200
+  damage: 1
+  ExplosionForce: 3
+  ExplosionRadius: 5
